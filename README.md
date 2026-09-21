@@ -1,17 +1,22 @@
-# Olá, eu sou o Lucas! 👋
+# Lucas de Oliveira Neitzke
 
-**Desenvolvedor Full-Stack | Engenharia de Software | Sistemas Inteligentes**
+**Engenheiro de Software | Desenvolvedor Full-Stack | Especialista em Sistemas Inteligentes**
 
-Sou um desenvolvedor apaixonado por criar soluções web eficientes e automatizar processos. Tenho foco na construção de aplicações modernas, arquitetura de microsserviços e integração de APIs, sempre buscando aliar código limpo a infraestruturas seguras e escaláveis.
+---
 
-### 🚀 Sobre mim
+## Sobre mim
 
-* 🔭 Atualmente administrando plataformas web, integrações de pagamento (Pix/WooCommerce) e SEO para projetos como o portal **Correr Toledo**.
-* 🌱 Aprofundando conhecimentos através do **MBA em Engenharia de Software** (UTFPR) e de uma especialização em **Sistemas Inteligentes** (IoT, IA e Modernização de Software).
-* ⚙️ Construindo pipelines de CI/CD com **GitHub Actions** e **CodeQL**, e explorando automações de fluxo de trabalho com **n8n**.
-* ☁️ Trabalhando na implantação e infraestrutura de projetos utilizando **Docker**, **Vercel** e **Google Cloud Platform (GCP)**.
-* 💬 Me pergunte sobre: **Node.js**, orquestração de microsserviços e integração com provedores de LLM (OpenRouter).
+Desenvolvedor Full-Stack e Engenheiro de Software focado no desenvolvimento de arquiteturas web escaláveis, otimização de infraestrutura em nuvem e automação de processos complexos. Atuo na construção end-to-end de sistemas, integração de microsserviços e implementação de pipelines seguros de integração e entrega contínuas (CI/CD).
 
+### Formação Acadêmica
+* **MBA em Engenharia de Software**: Universidade Tecnológica Federal do Paraná (UTFPR)
+* **Especialização em Sistemas Inteligentes**: UTFPR / Biopark Educação (Enfoque em IoT, IA aplicada e Modernização de Software)
+
+### Domínio Técnico e Atuação
+* **Desenvolvimento Backend & APIs:** Construção de aplicações robustas em Node.js, arquitetura de microsserviços, consumo/exposição de APIs RESTful e integração com provedores de LLM via OpenRouter.
+* **DevOps, Nuvem & Segurança:** Implantação e orquestração de containers com Docker, gerenciamento de recursos no Google Cloud Platform (GCP) e deploy de aplicações na Vercel.
+* **Qualidade & Automação:** Implementação de análise estática de código via CodeQL, automação de pipelines com GitHub Actions e orquestração de fluxos de trabalho utilizando n8n.
+* **Gestão de Plataformas Web:** Administração técnica do portal Correr Toledo, englobando processamento de pagamentos eletrônicos (Pix/WooCommerce) e otimização para motores de busca (SEO).
 ---
 
 ### 💻 Tecnologias e Ferramentas
